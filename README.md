@@ -8,7 +8,6 @@ Currently depends on jQuery, but someday it'll be $-free.
 
 
 ## Usage
-Usage:
 1) Load a page via ajax
 
 ```
